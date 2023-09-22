@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/beinsports1.png" group-title="TURKEY" TR: BEIN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/beinsports1.png" group-title="TURKEY",TR: BEIN SPORTS 1
 http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/175355
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/beinsports2.png" group-title="TURKEY" TR: BEIN SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/beinsports2.png" group-title="TURKEY",TR: BEIN SPORTS 2
 http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/25298
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBY60InIQOHmUel7uviTf0CO8phf4r9q3KSpZ74mwLA6y.png" group-title="TURKEY",TR: BEIN SPORTS 3
 http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/175354
