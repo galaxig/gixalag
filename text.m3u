@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/beinsports1.png" group-title="TURKEY",TR: BEIN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1"
 http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/175355
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/beinsports2.png" group-title="TURKEY",TR: BEIN SPORTS 2
 http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/25298
@@ -46,10 +46,6 @@ http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/5337
 http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/77712
 #EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/s-sport-2-tr.png" group-title="TURKEY",TR: S SPORT 2
 http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/77713
-#EXTINF:-1 tvg-id="" tvg-name="TR: Saran Sport 1" tvg-logo="" group-title="TURKEY",TR: Saran Sport 1
-http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/420290
-#EXTINF:-1 tvg-id="" tvg-name="TR: Saran Sport 2" tvg-logo="" group-title="TURKEY",TR: Saran Sport 2
-http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/420291
 #EXTINF:-1 tvg-id="" tvg-name="TR: SMART SPOR 1" tvg-logo="https://asiagrandiptv.us/logo//smartspor.png" group-title="TURKEY",TR: SMART SPOR 1
 http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/5330
 #EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 1" tvg-logo="https://asiagrandiptv.us/logo//tivibuspor1.png" group-title="TURKEY",TR: TIVIBU SPOR 1
@@ -58,5 +54,4 @@ http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/5327
 http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/5328
 #EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 3" tvg-logo="https://asiagrandiptv.us/logo//tivibuspor3.png" group-title="TURKEY",TR: TIVIBU SPOR 3
 http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/5329
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 85" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/tv85-tr.png" group-title="TURKEY",TR: TV 85
-http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/17164
+
