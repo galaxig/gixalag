@@ -2,6 +2,68 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="1" tvg-name="TR: BEIN SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/beinsports1.png" group-title="TURKEY",TR: BEIN SPORTS 1
 http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/175355
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: bieN SP0RT 1 HD+" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports1.png" group-title="TR beIN SPORTS",TR: bieN SP0RT 1 HD+
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/19048
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: bieN SP0RT 1 HD" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports1.png" group-title="TR beIN SPORTS",TR: bieN SP0RT 1 HD
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/288
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: bieN SP0RT 2 HD+" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports2.png" group-title="TR beIN SPORTS",TR: bieN SP0RT 2 HD+
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/289
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: bieN SP0RT 2 HD" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports2.png" group-title="TR beIN SPORTS",TR: bieN SP0RT 2 HD
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/262
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: bieN SP0RT 3 HD+" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="TR beIN SPORTS",TR: bieN SP0RT 3 HD+
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/290
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: bieN SP0RT 3 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="TR beIN SPORTS",TR: bieN SP0RT 3 HD
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/263
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: bieN SP0RT 4 HD+" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports4.png" group-title="TR beIN SPORTS",TR: bieN SP0RT 4 HD+
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/291
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: bieN SP0RT 4 HD" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports4.png" group-title="TR beIN SPORTS",TR: bieN SP0RT 4 HD
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/264
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 5 HD+" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="TR beIN SPORTS",TR: bieN SP0RT 5 HD+
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/117043
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 5 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="TR beIN SPORTS",TR: bieN SP0RT 5 HD
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/290639
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: bieN SP0RT HABER HD+" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/beinsports_haber.png" group-title="TR beIN SPORTS",TR: bieN SP0RT HABER HD+
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/285
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: bieN SP0RT HABER HD" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/beinsports_haber.png" group-title="TR beIN SPORTS",TR: bieN SP0RT HABER HD
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/267
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: bieN SP0RTS MAX 1 HD+" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="TR beIN SPORTS",TR: bieN SP0RTS MAX 1 HD+
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/292
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: bieN SP0RT MAX 1 HD" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="TR beIN SPORTS",TR: bieN SP0RT MAX 1 HD
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/265
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: bieN SP0RT MAX 2 HD+" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Sports_MAX_2_TR_logo.png" group-title="TR beIN SPORTS",TR: bieN SP0RT MAX 2 HD+
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/293
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: bieN SP0RT MAX 2 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Sports_MAX_2_TR_logo.png" group-title="TR beIN SPORTS",TR: bieN SP0RT MAX 2 HD
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/266
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 1 maczamani" tvg-logo="https://cdn6.aptoide.com/imgs/3/d/4/3d41b0206a1599f45725e0b7aedeca8c_icon.png" group-title="TR beIN SPORTS",TR: bieN CONNECT 1 maczamani
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/117040
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 2 maczamani" tvg-logo="https://cdn6.aptoide.com/imgs/3/d/4/3d41b0206a1599f45725e0b7aedeca8c_icon.png" group-title="TR beIN SPORTS",TR: bieN CONNECT 2 maczamani
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/117041
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 3 maczamani" tvg-logo="https://cdn6.aptoide.com/imgs/3/d/4/3d41b0206a1599f45725e0b7aedeca8c_icon.png" group-title="TR beIN SPORTS",TR: bieN CONNECT 3 maczamani
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/117042
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 4 maczamani" tvg-logo="https://cdn6.aptoide.com/imgs/3/d/4/3d41b0206a1599f45725e0b7aedeca8c_icon.png" group-title="TR beIN SPORTS",TR: bieN CONNECT 4 maczamani
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/285966
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 5 maczamani" tvg-logo="https://cdn6.aptoide.com/imgs/3/d/4/3d41b0206a1599f45725e0b7aedeca8c_icon.png" group-title="TR beIN SPORTS",TR: bieN CONNECT 5 maczamani
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/285967
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 6 maczamani" tvg-logo="https://cdn6.aptoide.com/imgs/3/d/4/3d41b0206a1599f45725e0b7aedeca8c_icon.png" group-title="TR beIN SPORTS",TR: bieN CONNECT 6 maczamani
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/285968
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (HEVC)" tvg-logo="https://serversitesi.pw//resim/galeri_MTYzZ_443.png" group-title="TR beIN SPORTS 1 (VIP)",TR: bieN SP0RT 1 (HEVC)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/349693
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: bieN SP0RT 1 (1080)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_726.png" group-title="TR beIN SPORTS 1 (VIP)",TR: bieN SP0RT 1 (1080)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/5000
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: bieN SP0RT 1 (720)" tvg-logo="https://serversitesi.pw//resim/galeri_MTYzZ_442.png" group-title="TR beIN SPORTS 1 (VIP)",TR: bieN SP0RT 1 (720)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/286
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (640)" tvg-logo="https://serversitesi.pw//resim/galeri_MTYzZ_440.png" group-title="TR beIN SPORTS 1 (VIP)",TR: bieN SP0RT 1 (640)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/222303
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR:  bieN SP0RT 1 (576)" tvg-logo="https://serversitesi.pw//resim/galeri_MTYzZ_440.png" group-title="TR beIN SPORTS 1 (VIP)",TR:  bieN SP0RT 1 (576)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/117044
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (480)" tvg-logo="https://serversitesi.pw//resim/galeri_MTYzZ_440.png" group-title="TR beIN SPORTS 1 (VIP)",TR: bieN SP0RT 1 (480)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/349694
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (360)" tvg-logo="https://serversitesi.pw//resim/galeri_MTYzZ_440.png" group-title="TR beIN SPORTS 1 (VIP)",TR: bieN SP0RT 1 (360)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/349695
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (SUPERONLINE)" tvg-logo="https://serversitesi.pw//resim/galeri_MTYzZ_440.png" group-title="TR beIN SPORTS 1 (VIP)",TR: bieN SP0RT 1 (SUPERONLINE)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/349722
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (TTNET)" tvg-logo="https://serversitesi.pw//resim/galeri_MTYzZ_440.png" group-title="TR beIN SPORTS 1 (VIP)",TR: bieN SP0RT 1 (TTNET)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/349721
 #EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 3" tvg-logo="https://asiagrandiptv.us/logo//tivibuspor3.png" group-title="TURKEY",l TR l beINSPORTS 1 SD
 http://ege.eges.win:8080/cabt22ne/cDQJXAFNW9wH/215181
 #EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 3" tvg-logo="https://asiagrandiptv.us/logo//tivibuspor3.png" group-title="TURKEY",l TR l beINSPORTS 1 1000k
@@ -158,3 +220,51 @@ http://ege.eges.win:8080/cabt22ne/cDQJXAFNW9wH/136571
 http://ege.eges.win:8080/cabt22ne/cDQJXAFNW9wH/136572
 #EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 3" tvg-logo="https://asiagrandiptv.us/logo//tivibuspor3.png" group-title="TURKEY",I TR I EUROSPORT 2 FHD
 http://ege.eges.win:8080/cabt22ne/cDQJXAFNW9wH/136573
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPORT SMART 1 HD++" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_320.png" group-title="TR SPORT",TR: SPORT SMART 1 HD++
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/297
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPORT SMART 1 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_320.png" group-title="TR SPORT",TR: SPORT SMART 1 HD+
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/301
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPORT SMART 1 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_321.png" group-title="TR SPORT",TR: SPORT SMART 1 HD
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/302
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART HD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="TR SPORT",TR: SPOR SMART HD 1
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/272
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 1 SD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_321.png" group-title="TR SPORT",TR: SPOR SMART 1 SD
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/124764
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 2 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_318.png" group-title="TR SPORT",TR: SPOR SMART 2 HD+
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/69715
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_311.png" group-title="TR SPORT",TR: NBA TV HD+
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/296
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_311.png" group-title="TR SPORT",TR: NBA TV HD
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/274
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR: EUROSPORT 1 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_314.png" group-title="TR SPORT",TR: EUROSPORT 1 HD+
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/275
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR: EUROSPORT 2 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_312.png" group-title="TR SPORT",TR: EUROSPORT 2 HD+
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/276
+#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_325.png" group-title="TR SPORT",TR: FB TV HD
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/259
+#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_322.png" group-title="TR SPORT",TR: GS TV HD
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/277
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="TR: SPORTSTV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_317.png" group-title="TR SPORT",TR: SPORTSTV HD
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/278
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TJK TV HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_309.png" group-title="TR SPORT",TR: TJK TV HD+
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/279
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 1 FEED (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR EXXEN SPORT",TR: EXXEN 1 FEED (maczamani)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/179671
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 1 HD+ (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR EXXEN SPORT",TR: EXXEN 1 HD+ (maczamani)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/125020
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 1 Plus+ (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR EXXEN SPORT",TR: EXXEN 1 Plus+ (maczamani)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/207893
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 2 HD+ (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR EXXEN SPORT",TR: EXXEN 2 HD+ (maczamani)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/125073
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 3 HD+ (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR EXXEN SPORT",TR: EXXEN 3 HD+ (maczamani)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/125857
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 4 HD+ (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR EXXEN SPORT",TR: EXXEN 4 HD+ (maczamani)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/141719
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 5 HD+ (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR EXXEN SPORT",TR: EXXEN 5 HD+ (maczamani)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/141720
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 6 HD+ (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR EXXEN SPORT",TR: EXXEN 6 HD+ (maczamani)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/141721
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 7 HD+ (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR EXXEN SPORT",TR: EXXEN 7 HD+ (maczamani)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/141923
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 8 HD+ (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR EXXEN SPORT",TR: EXXEN 8 HD+ (maczamani)
+http://royalboxeu.net:8080/53083034111/uZgJ37Kh5ZZu/141924
