@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/beinsports1.png" group-title="TURKEY",TR: BEIN SPORTS 1
+#EXTINF:-1 tvg-id="1" tvg-name="TR: BEIN SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/beinsports1.png" group-title="TURKEY",TR: BEIN SPORTS 1
 http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/175355
 #EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 3" tvg-logo="https://asiagrandiptv.us/logo//tivibuspor3.png" group-title="TURKEY",l TR l beINSPORTS 1 SD
 http://ege.eges.win:8080/cabt22ne/cDQJXAFNW9wH/215181
